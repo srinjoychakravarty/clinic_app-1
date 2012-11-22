@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  time_slot: MyString
+  available: false
+
+two:
+  time_slot: MyString
+  available: false
